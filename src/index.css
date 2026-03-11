@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+html {
+  scroll-behavior: smooth;
+}
+
 @theme {
   --font-sans: 'Inter', sans-serif;
   --font-display: 'Montserrat', sans-serif; /* Fonte para títulos */
