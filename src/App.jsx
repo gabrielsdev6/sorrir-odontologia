@@ -42,9 +42,11 @@ const Navbar = () => {
         </button>
 
         {/* CTA DESKTOP */}
-        <button className="hidden md:block bg-stone-900 hover:bg-gold-500 text-white px-6 py-2 rounded-full text-[10px] font-bold uppercase tracking-widest transition-all duration-300 shadow-md hover:shadow-gold-200 active:scale-95">
-          Agendar Consulta
-        </button>
+        <a href="https://wa.me/5537998044809" target="_blank" rel="noreferrer" className="no-underline">
+          <button className="hidden md:block bg-stone-900 hover:bg-gold-500 text-white px-6 py-2 rounded-full text-[10px] font-bold uppercase tracking-widest transition-all duration-300 shadow-md hover:shadow-gold-200 active:scale-95">
+            Agendar Consulta
+          </button>
+        </a>
       </div>
 
       {/* MOBILE MENU OVERLAY */}
