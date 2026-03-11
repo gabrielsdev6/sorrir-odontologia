@@ -1,16 +1,35 @@
-# React + Vite
+# 🦷 Sorrir Odontologia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site institucional desenvolvido em React para a clínica Sorrir Odontologia, com o objetivo de apresentar a clínica, seus serviços odontológicos, informações de contato e facilitar o acesso de pacientes às principais informações. 🦷
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## React Compiler
+## 📸 Preview do projeto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1352" height="750" alt="preview" src="https://github.com/user-attachments/assets/247a8b18-0969-40c0-8044-8a26c88e6c2f" />
 
-## Expanding the ESLint configuration
+<img width="1350" height="764" alt="preview" src="https://github.com/user-attachments/assets/3bfb6506-16af-4711-9c39-775a9679accd" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1365" height="767" alt="previewespecialista" src="https://github.com/user-attachments/assets/90dccc37-61c8-435d-bd9b-9e700dd71a8a" />
+
+<img width="1350" height="767" alt="previewfooter" src="https://github.com/user-attachments/assets/72e87ab4-e5c4-49f9-95c8-bb8e7627e948" />
+
+## 🎯 Objetivo
+
+Este projeto foi desenvolvido para prática de desenvolvimento front-end com React, simulando o site institucional de uma clínica odontológica.
+
+# 👨‍💻 Autor
+
+Desenvolvido por Gabriel
+
+Estudante de Ciência da Computação 💻
+
+
+
+
