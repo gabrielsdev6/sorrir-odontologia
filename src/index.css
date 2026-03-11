@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+  --font-display: 'Montserrat', sans-serif; /* Fonte para títulos */
+  
+  --color-gold-50: #fdfcf0;
+  --color-gold-100: #f9f4cf;
+  --color-gold-400: #d4af37;
+  --color-gold-500: #b8860b;
+  --color-gold-600: #996515;
+}
