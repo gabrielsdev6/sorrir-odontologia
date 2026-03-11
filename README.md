@@ -20,11 +20,11 @@ Site institucional desenvolvido em React para a clínica Sorrir Odontologia, com
 
 <img width="1350" height="767" alt="previewfooter" src="https://github.com/user-attachments/assets/72e87ab4-e5c4-49f9-95c8-bb8e7627e948" />
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Este projeto foi desenvolvido para prática de desenvolvimento front-end com React, simulando o site institucional de uma clínica odontológica.
 
-👨‍💻 Autor
+# 👨‍💻 Autor
 
 Desenvolvido por Gabriel
 Estudante de Ciência da Computação 💻
