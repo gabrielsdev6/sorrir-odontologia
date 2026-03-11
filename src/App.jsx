@@ -120,7 +120,6 @@ const Services = () => (
       {[
         { t: "Implantes", d: "Recupere sua mastigação com tecnologia de ponta." },
         { t: "Clareamento", d: "Dentes brancos de forma rápida, segura e duradoura." },
-        { t: "Ortodontia", d: "Aparelhos modernos e alinhadores invisíveis." },
         { t: "Próteses", d: "Estética e funcionalidade devolvidas com perfeição." },
         { t: "Limpeza", d: "Prevenção Premium para manter sua saúde bucal em dia." }
       ].map((s, idx) => (
