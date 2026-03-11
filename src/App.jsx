@@ -56,9 +56,11 @@ const Navbar = () => {
             {item.name}
           </a>
         ))}
-        <button className="bg-gold-400 text-white p-4 rounded-xl font-bold uppercase tracking-widest text-[10px] shadow-lg active:scale-95">
-          Agendar Consulta
-        </button>
+        <a href="https://wa.me/5537998044809" target="_blank" rel="noreferrer" className="no-underline">
+          <button className="bg-gold-400 text-white p-4 rounded-xl font-bold uppercase tracking-widest text-[10px] shadow-lg active:scale-95">
+            Agendar Consulta
+          </button>
+        </a>
       </div>
     </nav>
   );
