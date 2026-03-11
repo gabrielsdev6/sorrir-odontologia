@@ -166,7 +166,8 @@ const Equipe = () => (
             <div className="relative w-64 h-64 md:w-80 md:h-80 mb-10">
               <div className="absolute -inset-4 border border-gold-200 rounded-full group-hover:scale-110 group-hover:border-gold-400 transition-all duration-700 opacity-50 group-hover:opacity-100"></div>
               <div className="relative w-full h-full rounded-full overflow-hidden border-8 border-white shadow-2xl transition-transform duration-700">
-                <img src={dr.i} alt={dr.n} className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-1000 group-hover:scale-110" />
+                {/* REMOVIDO EFEITO GRAYSCALE */}
+                <img src={dr.i} alt={dr.n} className="w-full h-full object-cover transition-all duration-1000 group-hover:scale-110" />
               </div>
             </div>
             <h3 className="text-sm font-extrabold text-stone-900 uppercase tracking-[0.2em]">{dr.n}</h3>
