@@ -1,6 +1,6 @@
 # 🦷 Sorrir Odontologia
 
-Site institucional desenvolvido em React para a clínica Sorrir Odontologia, com o objetivo de apresentar a clínica, seus serviços odontológicos, informações de contato e facilitar o acesso de pacientes às principais informações. 🦷💻
+Site institucional desenvolvido em React para a clínica Sorrir Odontologia, com o objetivo de apresentar a clínica, seus serviços odontológicos, informações de contato e facilitar o acesso de pacientes às principais informações. 🦷
 
 ## 🚀 Tecnologias utilizadas
 
@@ -27,6 +27,7 @@ Este projeto foi desenvolvido para prática de desenvolvimento front-end com Rea
 # 👨‍💻 Autor
 
 Desenvolvido por Gabriel
+
 Estudante de Ciência da Computação 💻
 
 
